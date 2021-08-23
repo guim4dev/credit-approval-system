@@ -1,0 +1,25 @@
+one hot encode - produto_solicitado FEITO
+one hot encode - forma_envio_solicitacao FEITO 
+one hot encode - tipo_endereco FEITO
+estado_onde_nasceu - remover do dataset FEITO
+one hot encode - estado_civil FEITO
+grau_instrucao - remover do dataset FEITO
+remover do dataset FEITO - nacionalidade
+estado_onde_reside - agrupar por regiao e one hot encode FEITO
+codigo_area_telefone_residencial - remover do dataset FEITO
+possui_telefone_celular - remover do dataset FEITO
+qtde_contas_bancarias_especiais - remover do dataset FEITO
+estado_onde_trabalha - remover do dataset FEITO
+codigo_area_telefone_trabalho - remover do dataset FEITO
+meses_no_trabalho - remover do dataset FEITO
+profissao - remover do dataset FEITO
+profissao_companheiro - remover do dataset FEITO
+grau_instrucao_companheiro - remover do dataset FEITO
+local_onde_reside - remover do dataset FEITO
+local_onde_trabalha - remover do dataset FEITO
+tipo_residencia - drop em 4.0 e 3.0 e aplicar one hot encode FEITO
+DROPAR LINHAS COM N E NULO E transformar EM INTEIRO - sexo FEITO
+possui_telefone_residencial - transformar em inteiro FEITO
+vinculo_formal_com_empresa - transformar em inteiro FEITO
+possui_telefone_trabalho - transformar em inteiro FEITO
+ocupacao - tirar o valor 3 e aplicar one hot encode FEITO
