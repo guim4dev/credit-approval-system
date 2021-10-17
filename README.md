@@ -5,12 +5,12 @@ Aluno: Thiago Guimarães
 
 ## Sobre o Repositório
 
-Nesse repositório podem ser encontrados um [`notebook`](https://github.com/guim4dev/credit-approval-system/blob/main/notebook.ipynb), que foi utilizado
-para realizar o pré-processamento dos dados e o treinamento do modelo, além da geração de um arquivo [`submission.csv`](https://github.com/guim4dev/credit-approval-system/blob/main/submission.csv), que é o arquivo entregado no Kaggle. Há também uma pasta [`data`](https://github.com/guim4dev/credit-approval-system/tree/main/data), na qual estão armazenados os datasets fornecidos e afins.
+Nesse repositório podem ser encontrados um [notebook](https://github.com/guim4dev/credit-approval-system/blob/main/notebook.ipynb), que foi utilizado
+para realizar o pré-processamento dos dados e o treinamento do modelo, além da geração de um arquivo [submission.csv](https://github.com/guim4dev/credit-approval-system/blob/main/submission.csv), que é o arquivo entregado no Kaggle. Há também uma pasta [data](https://github.com/guim4dev/credit-approval-system/tree/main/data), na qual estão armazenados os datasets fornecidos e afins.
 
 ## Pré-processamento
 
-Por meio da análise dos dados utilizando pandas e das informações fornecidas no kaggle, foram mapeadas colunas inúteis que poderiam ser descartadas, colunas que precisariam passar por um processo de one_hot_encoding, fora outros processamentos. As colunas que sofreram tais tipos de alteração estão mapeadas detalhadamente no arquivo de [`anotações](https://github.com/guim4dev/credit-approval-system/blob/main/anotacoes.txt).
+Por meio da análise dos dados utilizando pandas e das informações fornecidas no kaggle, foram mapeadas colunas inúteis que poderiam ser descartadas, colunas que precisariam passar por um processo de one_hot_encoding, fora outros processamentos. As colunas que sofreram tais tipos de alteração estão mapeadas detalhadamente no arquivo de [anotações](https://github.com/guim4dev/credit-approval-system/blob/main/anotacoes.txt).
 Em resumo temos:
 
 **1. Colunas removidas:**
