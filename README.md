@@ -1,4 +1,4 @@
-# EEL891 - 2021.02 - Relatório do Trabalho 1
+# EEL891 - 2021.1 - Relatório do Trabalho 1
 Classificação: sistema de apoio à decisão para aprovação de crédito
 
 Aluno: Thiago Guimarães
