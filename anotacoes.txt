@@ -7,8 +7,6 @@ grau_instrucao - remover do dataset FEITO
 remover do dataset FEITO - nacionalidade
 estado_onde_reside - agrupar por regiao e one hot encode FEITO
 codigo_area_telefone_residencial - remover do dataset FEITO
-possui_telefone_celular - remover do dataset FEITO
-qtde_contas_bancarias_especiais - remover do dataset FEITO
 estado_onde_trabalha - remover do dataset FEITO
 codigo_area_telefone_trabalho - remover do dataset FEITO
 meses_no_trabalho - remover do dataset FEITO
