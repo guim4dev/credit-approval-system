@@ -54,7 +54,7 @@ Em resumo temos:
 **4. Outras alterações:**
 Além disso, no Estado do dataset, foi aplicado um processo de agrupamento por região do Brasil, de forma a agruparmos as linhas do dataset por região, não mais por Estado.
 
-Também foi utilizado um Imputer para consertar alguns dados que estavam nulos, de forma a possibilitar a utilização do modelo. A métrica utilizada pelo imputer foi a mediana.
+Também foi utilizado um Inputer para consertar alguns dados que estavam nulos, de forma a possibilitar a utilização do modelo. A métrica utilizada pelo imputer foi a mediana.
 
 
 ## Implementação do modelo classificador
